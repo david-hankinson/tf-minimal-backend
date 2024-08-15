@@ -1,6 +1,6 @@
 # A Minimal Terraform Deploy Repository
 
-Simple base code repository with an AWS S3 Backend and Dynamo DB Table for tf lock based on [Terraform Up and Running: 3rd Edition](http://www.terraformupandrunning.com/)
+Simple base code repository with an AWS S3 Backend and Dynamo DB Table for tf lock based on [Terraform Up and Running: 3rd Edition](http://www.terraformupandrunning.com/). Intended to speed up development when creating new projects.
 
 Using an S3 backend has the following advantages:
 - [S3](https://aws.amazon.com/s3/) is a managed service so no need for effort in setting up infra
